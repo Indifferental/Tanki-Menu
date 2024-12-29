@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         Tanki inDev
+// @name         Tanki Menu
 // @namespace    http://tampermonkey.net/
 // @version      none
 // @description  none
